@@ -27,6 +27,7 @@
     "babel-plugin-react-transform": "^1.1.0",
     "concurrently": "^0.1.1",
     "express": "^4.13.3",
+    "json-loader": "^0.5.7",
     "react-transform-hmr": "^1.0.0",
     "redux-devtools": "^3.0.2",
     "redux-devtools-dock-monitor": "^1.0.1",
@@ -35,4 +36,4 @@
     "webpack-dev-middleware": "^1.2.0",
     "webpack-hot-middleware": "^2.2.0"
   }
- }
+}

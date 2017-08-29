@@ -1,0 +1,25 @@
+[
+  { "name": "a",
+    "count": 2,
+    "children": [
+      { "name": "a1",
+        "count": 2
+      },
+      { "name": "a2",
+        "count": 2
+      }
+    ]
+  },
+  { "name": "b",
+    "count": 2,
+    "children": [
+      { "name": "b1",
+        "count": 2
+      },
+      { "name": "b2",
+        "count": 2
+      }
+    ]
+  }
+
+]

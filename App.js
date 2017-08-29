@@ -1,5 +1,5 @@
 import React from 'react';
-import Left from './left';
+import Left from './Left';
 class App extends React.Component {
   render() {
     return <Left/>

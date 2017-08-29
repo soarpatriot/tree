@@ -1,7 +1,14 @@
 import React from 'react';
+import TitleBar from './TitleBar';
+import Dept from './Dept';
 class Left extends React.Component {
   render() {
-    return <div style={left}> hello world </div>
+    return (
+      <div style={left}>
+        <TitleBar />
+        <Dept />
+      </div>
+    )
   }
 }
 const left = {
