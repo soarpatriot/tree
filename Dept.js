@@ -5,8 +5,8 @@ class Dept extends React.Component {
   render() {
     let depts  = [];
     depts = data.map(function(dep,i){
-      return ( 
-              <Item key={i} name={dep.name} count={dep.count} />
+      let dd = <Item key={i} name={dep.name} count={dep.count} children={dep.children}/ > 
+      return ( dd
              )
     })
     return( 
